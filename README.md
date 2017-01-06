@@ -1,4 +1,4 @@
-# CMSC17-project1
+# CMSC137-project1
 UDP mimics behavior of TCP
 
 To run:
